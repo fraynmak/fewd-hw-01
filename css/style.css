@@ -1,3 +1,109 @@
-h1 {
-	color:red;
+
+html {
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	margin:30px;
+
 }
+
+
+
+h1 {
+	color:black;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: hind; 
+	line-height: 1.5;
+
+}
+
+
+
+header {
+	color:black;
+	text-align: center;
+	font-family: hind;
+	color:black;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	font-weight: bold;
+
+}
+header a {
+	font-weight: 1000;
+	color:black;
+}
+
+h2{
+	font-family: hind;
+}
+div {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-bottom: :10px;
+
+	background-color: white;
+	background-size: cover;
+	overflow: auto;
+	
+
+
+}
+
+div img{
+	float:right;
+	border: 10px solid white;
+
+
+}
+
+
+footer{
+	text-align: center;
+	color:black;
+	font-family: hind;
+	margin-bottom: 80px;
+}
+
+footer a {
+	color:black;
+}
+
+
+.selected {
+
+}
+
+
+p {
+	font-family: Abel; 
+	font-weight: 800;
+}
+
+.portfolio {
+	border-top: 1px solid black;
+	padding-top: 30px ;
+	
+
+}
+
+h3 {
+	font-family: hind;
+	font-weight: bold;
+	text-transform: uppercase;
+
+
+}
+
+ul img {
+	margin: 30px;
+}
+
+
+}
+.bottom {
+	border-top: 1px solid black;
+
+}
+
+
