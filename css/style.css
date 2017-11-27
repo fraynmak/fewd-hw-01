@@ -28,11 +28,14 @@ header {
 	padding-top: 20px;
 	font-weight: bold;
 
+
 }
+
 header a {
 	font-weight: 1000;
 	color:black;
 }
+
 
 h2{
 	font-family: hind;
@@ -58,16 +61,21 @@ div img{
 }
 
 
-footer{
+footer {
 	text-align: center;
 	color:black;
 	font-family: hind;
 	margin-bottom: 80px;
+	font-weight: 800;
 }
 
 footer a {
 	color:black;
 }
+
+/*footer: hover {
+	background-color: red;
+}*/
 
 
 .selected {
@@ -76,7 +84,7 @@ footer a {
 
 
 p {
-	font-family: Abel; 
+	font-family: hind; 
 	font-weight: 800;
 }
 
@@ -88,22 +96,31 @@ p {
 }
 
 h3 {
-	font-family: hind;
+	font-family: hind ;
 	font-weight: bold;
 	text-transform: uppercase;
 
 
 }
+ul{
+	font-family: hind;
+}
 
 ul img {
 	margin: 30px;
 }
-
-
+li{
+	margin:10px;
 }
+
+
 .bottom {
-	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+
+
 
 }
+
+
 
 
